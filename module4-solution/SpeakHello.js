@@ -19,7 +19,7 @@
   }
   window.helloSpeaker = helloSpeaker;
 
-}) (window)
+}) (window);
 
 // STEP 5: Expose the 'helloSpeaker' object to the global scope. Name it
 // 'helloSpeaker' on the global scope as well.
